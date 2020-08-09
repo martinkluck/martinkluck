@@ -8,8 +8,6 @@ I'm a Full-Stack developer. I have been working for more than 5 year in back and
 
 - Full-Stack Developer [@sesociocom](https://sesocio.com/)
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="mgkluck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
