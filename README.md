@@ -1,12 +1,10 @@
-### Martin Gustavo Kluck
-
-> Developer. 
+### Martin Kluck
 
 
 I'm a developer. I have been working for more than 5 year in back and front end technologies. Today i'm learling Kotlin but I handle different languages ​​and frameworks like Laravel or Node.js. When i'm not coding i like play video games. 💻🎮
 
 
-- Backend Developer [@blockchain](https://blockchain.com/)
+- Backend Engineer [@blockchain](https://blockchain.com/)
 
 ### Connect with me:
 
