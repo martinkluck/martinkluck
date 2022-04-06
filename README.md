@@ -1,12 +1,12 @@
 ### Martin Gustavo Kluck
 
-> Full Stack Developer. 
+> Developer. 
 
 
-I'm a Full-Stack developer. I have been working for more than 5 year in back and front end technologies. Today i'm mostly working with Ruby on Rails, Javascript and Vue.js but I handle different languages ​​and frameworks like Laravel or Node.js. When i'm not coding i like play video games. 💻🎮
+I'm a developer. I have been working for more than 5 year in back and front end technologies. Today i'm learling Kotlin but I handle different languages ​​and frameworks like Laravel or Node.js. When i'm not coding i like play video games. 💻🎮
 
 
-- Full-Stack Developer [@sesociocom](https://sesocio.com/)
+- Backend Developer [@blockchain](https://blockchain.com/)
 
 ### Connect with me:
 
