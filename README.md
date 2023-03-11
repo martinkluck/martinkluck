@@ -4,7 +4,7 @@
 I'm a developer. I have been working for more than 7 years in back and front end technologies. Today i'm working with NodeJs but I handle different languages ​​and frameworks. When i'm not coding i like play video games. 💻🎮
 
 
-- Backend Engineer [@bitexla](https://bitex.la/)
+<!-- - Backend Engineer [@bitexla](https://bitex.la/) -->
 
 ### Connect with me:
 
